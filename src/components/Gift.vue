@@ -2,7 +2,7 @@
   <div class="gift-component full-screen">
     <div  class="reBtn"  @click="replays">重置</div>
     <div  class="reBtns" @click="btnHh">重置</div>
-    <h1 v-if="giftName !=="谢谢参与">恭喜你中奖啦！</h1>
+    <h1 v-if="giftName !=='谢谢参与'">恭喜你中奖啦！</h1>
     <h1 v-else>你还未中奖，再试试吧</h1>
     <br>
     <h3 v-show="isShowRestart">你还有{{ 3 - btnTiems}}次抽奖机会哦</h3>
