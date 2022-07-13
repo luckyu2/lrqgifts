@@ -107,7 +107,7 @@ export default {
     width: 50px;
     height: 50px;
     border-radius: 50%;
-    color: #fdfdff;
+    color: #fff;
     border: 1px solid #dbd1d1;
     position: fixed;
     bottom: 100px;
@@ -117,7 +117,7 @@ export default {
     width: 50px;
     height: 50px;
     border-radius: 50%;
-    color: #e3dddd;
+    color: #fff;
     border: 1px solid #e7e3e3;
     position: fixed;
     bottom: 60px;
